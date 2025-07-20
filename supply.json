@@ -1,0 +1,9 @@
+{
+  "token": "RIZZ",
+  "chain": ["Solana", "Base"],
+  "max_supply": 1000000000,
+  "burned_solana": 219000000,
+  "burned_base": 6004264,
+  "circulating_supply": 774995736,
+  "last_updated": "2025-07-17"
+}
